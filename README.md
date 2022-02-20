@@ -1,5 +1,5 @@
-# SpaceEscape-Codes-Repository
-Open-Source Codes from my game created for "Summer Dev Jam 2020". <br />
+# SpaceEscape-Code-Repository
+Open-Source Code from my game created for "Summer Dev Jam 2020". <br />
 
 **Purpose:** <br />
 If you played the game and what to check out the source code for learning purpose, <br />
